@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SharePointBirthDayUtility", "SharePointBirthDayUtility.csproj", "{D08D1FC8-9EA7-4DEC-9080-B744A4F65AAA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D08D1FC8-9EA7-4DEC-9080-B744A4F65AAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D08D1FC8-9EA7-4DEC-9080-B744A4F65AAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D08D1FC8-9EA7-4DEC-9080-B744A4F65AAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D08D1FC8-9EA7-4DEC-9080-B744A4F65AAA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A521B3AC-21CF-4E83-B1F9-9AEA0E8B4A7A}
+	EndGlobalSection
+EndGlobal

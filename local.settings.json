@@ -1,0 +1,17 @@
+{
+    "IsEncrypted": false,
+    "Values": {
+        "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+        "FUNCTIONS_WORKER_RUNTIME": "dotnet",
+        "SPSiteUrl": "{{Site Url}}",
+        "SPClientId": "{{clientid}}",
+        "SPClientSecret": "{{clientsecret}}",
+        "SPFolderName": "{{Sharepoint List}}",
+        "SqlConnectionString": "{{database connection}}",
+        "smtpServer": "{{SMTP INFO}}",
+        "smtpUserName": "{{Uername}}",
+        "smtpPasswrod": "{{password}}",
+        "smtpPort": "{{port}}",
+        "sendTo": "{{Email address}}"
+    }
+}
